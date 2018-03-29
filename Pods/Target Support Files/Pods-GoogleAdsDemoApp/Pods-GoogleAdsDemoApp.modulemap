@@ -1,0 +1,6 @@
+framework module Pods_GoogleAdsDemoApp {
+  umbrella header "Pods-GoogleAdsDemoApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
